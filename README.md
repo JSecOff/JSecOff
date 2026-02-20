@@ -4,9 +4,6 @@
   
   <h1>👨‍💻 JSecOff</h1>
   <h3>Especialista en Ciberseguridad | Blue Team Defender | Red Team Enthusiast | México</h3>
-  <!-- GIF hacker typing estable -->
-  <img src="https://media.tenor.com/5pZ8q8q8q8IAAAAC/hacker-typing.gif" alt="Hacker Typing Code" width="400"/>
-
 </div>
 
 ---
